@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NombreActivitys</string>
+    <string name="pagina1">Pagina 1</string>
+    <string name="pagina2">Pagina 2</string>
+    <string name="pagina3">Pagina 3</string>
+    <string name="nombre">Nombre</string>
+    <string name="btnNext">Next</string>
+    <string name="btnBack">Back</string>
+    <string name="txtPagina2">Hola, tu nombre es </string>
+    <string name="valorNombre">Lionel</string>
+    <string name="txtPagina3"> , estas en la pagina 3</string>
+
+</resources>
